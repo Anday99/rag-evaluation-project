@@ -1,0 +1,554 @@
+{
+    "questions": [
+        {
+            "context": [
+                "Fenerbahçe'nin 2020/2021 sezonunda transfer geliri 26.38 milyon euro'dur. Bu sezonda yapılan önemli satışlar arasında Vedat Muriqi'nin Lazio'ya transferi öne çıkmıştır. Ayrıca genç oyuncuların başka kulüplere kiralanması da bu gelire katkı sağlamıştır.",
+                "2021/2022 sezonunda Fenerbahçe'nin transfer geliri 6.06 milyon euro olarak kaydedilmiştir. Bu sezon, büyük transfer gelirleri elde edilemeyen bir yıl olmuştur ve takımın performansı ligde beklenenin altında kalmıştır.",
+                "2022/2023 sezonunda transfer geliri 30.95 milyon euro'ya ulaşmıştır. Bu sezonda Eljif Elmas'ın Napoli'ye satışı, kulübün finansal tablosunda önemli bir iyileşme sağlamıştır. Ayrıca birkaç genç oyuncunun satışından da gelir elde edilmiştir.",
+                "2023/2024 sezonunda Fenerbahçe'nin transfer geliri 56.35 milyon euro olarak gerçekleşmiştir. Bu rekor gelir, kulübün Avrupa kupalarındaki başarısı ve oyuncularının artan piyasa değeri sayesinde elde edilmiştir. Özellikle genç yeteneklerin Avrupa'ya transferi dikkat çekmiştir.",
+                "2024/2025 sezonunda transfer geliri 30.5 milyon euro olarak kaydedilmiştir. Bu sezonda takımdan ayrılan tecrübeli oyuncuların yerine genç yeteneklere yatırım yapılmıştır ve bu durum uzun vadeli başarı stratejilerinin bir parçası olarak değerlendirilmiştir."
+            ],
+            "question": "Fenerbahçe'nin transferden en çok gelir elde ettiği sezon hangisidir?",
+            "answer": "2023/2024"
+        },
+        {
+            "context": [
+                "Fenerbahçe'nin 2020/2021 sezonunda transfer geliri 26.38 milyon euro'dur. Bu sezonda yapılan önemli satışlar arasında Vedat Muriqi'nin Lazio'ya transferi öne çıkmıştır. Ayrıca genç oyuncuların başka kulüplere kiralanması da bu gelire katkı sağlamıştır.",
+                "2021/2022 sezonunda Fenerbahçe'nin transfer geliri 6.06 milyon euro olarak kaydedilmiştir. Bu sezon, büyük transfer gelirleri elde edilemeyen bir yıl olmuştur ve takımın performansı ligde beklenenin altında kalmıştır.",
+                "2022/2023 sezonunda transfer geliri 30.95 milyon euro'ya ulaşmıştır. Bu sezonda Eljif Elmas'ın Napoli'ye satışı, kulübün finansal tablosunda önemli bir iyileşme sağlamıştır. Ayrıca birkaç genç oyuncunun satışından da gelir elde edilmiştir.",
+                "2023/2024 sezonunda Fenerbahçe'nin transfer geliri 56.35 milyon euro olarak gerçekleşmiştir. Bu rekor gelir, kulübün Avrupa kupalarındaki başarısı ve oyuncularının artan piyasa değeri sayesinde elde edilmiştir. Özellikle genç yeteneklerin Avrupa'ya transferi dikkat çekmiştir.",
+                "2024/2025 sezonunda transfer geliri 30.5 milyon euro olarak kaydedilmiştir. Bu sezonda takımdan ayrılan tecrübeli oyuncuların yerine genç yeteneklere yatırım yapılmıştır ve bu durum uzun vadeli başarı stratejilerinin bir parçası olarak değerlendirilmiştir."
+            ],
+            "question": "Fenerbahçe'nin transferden en az gelir elde ettiği sezon hangisidir?",
+            "answer": "2021/2022"
+        },
+        {
+            "context": [
+                "Türkiye'de turizm gelirleri 2020 yılında pandemi nedeniyle 12.1 milyar dolar seviyesine düşmüştür. Bu yıl, uluslararası seyahat kısıtlamaları ve karantina uygulamaları turizm sektörünü ciddi şekilde etkilemiştir.",
+                "2021 yılında, Türkiye'nin turizm gelirleri toparlanarak 24.5 milyar dolar seviyesine yükselmiştir. Özellikle yaz aylarında uygulanan esnek kısıtlamalar, turist sayısının artmasına katkı sağlamıştır.",
+                "2022 yılında turizm gelirleri 46.3 milyar dolara ulaşmıştır. Bu yıl, Türkiye'nin tanıtım kampanyaları ve uluslararası seyahat hareketliliğinin artması sektör için önemli bir toparlanma dönemi olmuştur.",
+                "2023 yılında turizm gelirleri 38.6 milyar dolar olarak kaydedilmiştir. Ancak, bu dönemde Avrupa'daki ekonomik durgunluk ve artan enflasyon, turist sayısında bir miktar düşüşe neden olmuştur.",
+                "2024 yılında turizm gelirleri 18.2 milyar dolar seviyesine gerilemiştir. Bu düşüş, global ekonomik kriz ve jeopolitik gerginliklerin etkisiyle açıklanmıştır. Sektör bu dönemde daha çok iç turizme yönelmiştir."
+            ],
+            "question": "Türkiye'nin turizm gelirlerinin en yüksek olduğu yıl hangisidir?",
+            "answer": "2022"
+        },
+        {
+            "context": [
+                "Türkiye'de turizm gelirleri 2020 yılında pandemi nedeniyle 12.1 milyar dolar seviyesine düşmüştür. Bu yıl, uluslararası seyahat kısıtlamaları ve karantina uygulamaları turizm sektörünü ciddi şekilde etkilemiştir.",
+                "2021 yılında, Türkiye'nin turizm gelirleri toparlanarak 24.5 milyar dolar seviyesine yükselmiştir. Özellikle yaz aylarında uygulanan esnek kısıtlamalar, turist sayısının artmasına katkı sağlamıştır.",
+                "2022 yılında turizm gelirleri 46.3 milyar dolara ulaşmıştır. Bu yıl, Türkiye'nin tanıtım kampanyaları ve uluslararası seyahat hareketliliğinin artması sektör için önemli bir toparlanma dönemi olmuştur.",
+                "2023 yılında turizm gelirleri 38.6 milyar dolar olarak kaydedilmiştir. Ancak, bu dönemde Avrupa'daki ekonomik durgunluk ve artan enflasyon, turist sayısında bir miktar düşüşe neden olmuştur.",
+                "2024 yılında turizm gelirleri 18.2 milyar dolar seviyesine gerilemiştir. Bu düşüş, global ekonomik kriz ve jeopolitik gerginliklerin etkisiyle açıklanmıştır. Sektör bu dönemde daha çok iç turizme yönelmiştir."
+            ],
+            "question": "Türkiye'nin turizm gelirlerinin en düşük olduğu yıl hangisidir?",
+            "answer": "2020"
+        },
+        {
+            "context": [
+                "Alex de Souza 2005/2006 sezonunda 35 gol atmıştır, Fenerbahçe takımında başardıkları ile birlikte taraftarın en sevdiği oyuncu olmuştur.",
+                "Arda Turan 2005/2006 sezonunda 12 gol atmıştır. Genç yıldız olarak parladığı bir sezon geçirmiştir.",
+                "Nicolas Anelka 2005/2006 sezonunda 21 gol atmıştır. Dünya yıldızı oyuncu Fenerbahçe taraftarının sevgilisi olmuştur.",
+                "Sergen Yalçın 2005/2006 sezonunda 10 gol atmıştır. Tecrübeli oyuncu kariyerinin son yıllarından performans düşüşü yaşamaktadır.",
+                "Yattara 2005/2006 sezonunda 7 gol atmıştır. Oyun içerisinde Trabzonspor taraftarının hoşuna gideceği işler yapsa da skora katkısı çok sınırlı kalmıştır."
+            ],
+            "question": "2005/2006 sezonunda 25 golden daha fazla gol atan futbolcu kimdir?",
+            "answer": "Alex de Souza"
+        },
+        {
+            "context": [
+                "Alex de Souza 2005/2006 sezonunda 35 gol atmıştır, Fenerbahçe takımında başardıkları ile birlikte taraftarın en sevdiği oyuncu olmuştur.",
+                "Arda Turan 2005/2006 sezonunda 12 gol atmıştır. Genç yıldız olarak parladığı bir sezon geçirmiştir.",
+                "Nicolas Anelka 2005/2006 sezonunda 21 gol atmıştır. Dünya yıldızı oyuncu Fenerbahçe taraftarının sevgilisi olmuştur.",
+                "Sergen Yalçın 2005/2006 sezonunda 10 gol atmıştır. Tecrübeli oyuncu kariyerinin son yıllarından performans düşüşü yaşamaktadır.",
+                "Yattara 2005/2006 sezonunda 7 gol atmıştır. Oyun içerisinde Trabzonspor taraftarının hoşuna gideceği işler yapsa da skora katkısı çok sınırlı kalmıştır."
+            ],
+            "question": "2005/2006 sezonunda 10 golden daha az gol atan futbolcu hangi takımda oynamaktadır?",
+            "answer": "Trabzonspor"
+        },
+        {
+            "context": [
+                "Dünya genelinde 2024 yılında toplam enerji tüketimi 160.000 terawatt-saat olarak açıklanmıştır. Bu miktar, artan nüfus ve sanayileşme ile her yıl istikrarlı bir şekilde artmaktadır.",
+                "Sanayi sektörü, dünya genelindeki toplam enerji tüketiminin yaklaşık %45'ini oluşturmaktadır. Özellikle ağır sanayi, enerji tüketiminde başı çekmektedir.",
+                "Ulaşım sektörü, toplam enerji tüketiminin %25'ini kullanmaktadır. Elektrikli araçların yaygınlaşması bu oranın değişmesine neden olabilir.",
+                "Hane halkları, toplam enerji tüketiminin %20'sini oluşturmaktadır. Özellikle ısıtma ve soğutma sistemleri, hane enerji tüketiminde önemli bir pay sahibidir.",
+                "Yenilenebilir enerji kaynakları, toplam enerji tüketiminin %10'unu karşılamaktadır. Bu oran, güneş ve rüzgar enerjisi kullanımındaki artışa bağlı olarak her yıl yükselmektedir."
+            ],
+            "question": "2024 yılında dünya genelinde en çok enerji tüketen sektör hangisidir?",
+            "answer": "Sanayi sektörü"
+        },
+        {
+            "context": [
+                "2023 yılında dünya genelinde toplam doğalgaz üretimi 4 trilyon metreküp olarak açıklanmıştır.",
+                "Bu üretimin yaklaşık 1.5 trilyon metreküpü Orta Doğu'da gerçekleştirilmiştir. Bu bölge doğalgaz rezervleri bakımından liderdir.",
+                "Rusya, dünya doğalgaz üretiminde ikinci sırada yer almakta ve toplamda 1 trilyon metreküp üretim yapmıştır.",
+                "ABD, 2023 yılında 0.8 trilyon metreküp doğalgaz üretmiştir. Bu miktar, ülkenin enerji bağımsızlığını desteklemektedir.",
+                "Diğer bölgelerde ise toplam 0.7 trilyon metreküp doğalgaz üretilmiştir. Bu bölgeler arasında Avrupa ve Afrika da bulunmaktadır."
+            ],
+            "question": "2023 yılında doğalgaz üretiminde lider bölge hangisidir?",
+            "answer": "Orta Doğu"
+        },
+        {
+            "context": [
+                "2023 yılında dünya genelinde toplam doğalgaz üretimi 4 trilyon metreküp olarak açıklanmıştır.",
+                "Bu üretimin yaklaşık 1.5 trilyon metreküpü Orta Doğu'da gerçekleştirilmiştir. Bu bölge doğalgaz rezervleri bakımından liderdir.",
+                "Rusya, dünya doğalgaz üretiminde ikinci sırada yer almakta ve toplamda 1 trilyon metreküp üretim yapmıştır.",
+                "ABD, 2023 yılında 0.8 trilyon metreküp doğalgaz üretmiştir. Bu miktar, ülkenin enerji bağımsızlığını desteklemektedir.",
+                "Diğer bölgelerde ise toplam 0.7 trilyon metreküp doğalgaz üretilmiştir. Bu bölgeler arasında Avrupa ve Afrika da bulunmaktadır."
+            ],
+            "question": "2023 yılında doğalgaz üretimi en az olan bölge hangisidir?",
+            "answer": "Orta Doğu"
+        },
+        {
+            "context": [
+                "2023 yılında dünya genelinde toplam karbon emisyonu 37 milyar ton olarak açıklanmıştır. Ulaşım sektörü, enerji sektörü ve sanayi sektörü bu emisyonun başlıca kaynaklarıdır.",
+                "Enerji sektöründen kaynaklanan emisyonlar toplamın %30'unu oluşturmuştur. Bu, 11.1 milyar ton karbon emisyonuna karşılık gelmektedir.",
+                "Sanayi sektörü ise toplam karbon emisyonunun %25'ini temsil eder ve bu oran 9.25 milyar tona denk gelir.",
+                "Ulaşım sektörü, toplam emisyonun %20'sine katkıda bulunmuş ve bu oran 7.4 milyar ton olarak hesaplanmıştır.",
+                "Karbon emisyonlarını azaltma çalışmaları özellikle enerji ve ulaşım sektörlerinde yoğunlaşmaktadır."
+            ],
+            "question": "2023 yılında karbon emisyonlarını azaltmaya yönelik en çok odaklanılan sektör hangisidir?",
+            "answer": "Enerji sektörü"
+        },
+        {
+            "context": [
+                "2022 yılında dünya genelinde toplam elektrik üretimi 25.000 terawatt-saat olarak kaydedilmiştir. Bu üretimin önemli bir kısmı fosil yakıtlar ile sağlanmıştır.",
+                "Rüzgar enerjisi, toplam üretimin %15'ine katkı sağlayarak 3.750 terawatt-saat enerji üretmiştir.",
+                "Güneş enerjisi ise 2.500 terawatt-saat enerji sağlayarak toplam üretimin %10'unu temsil etmiştir.",
+                "Hidroelektrik enerji kaynakları, 5.000 terawatt-saat enerji üreterek bu dönemde önemli bir rol oynamıştır.",
+                "Kömür ve doğalgaz gibi fosil yakıtlar ise toplam enerji üretiminin %50'sini sağlamıştır."
+            ],
+            "question": "2022 yılında yenilenebilir enerji kaynaklarından en fazla enerji üreten kaynak hangisidir?",
+            "answer": "Hidroelektrik"
+        },
+        {
+            "context": [
+                "Cristiano Ronaldo, 2021 yılında uluslararası maçlarda toplam 14 gol atarak rekor kırmıştır. Bu performansı, Portekiz milli takımının Dünya Kupası elemelerinde başarılı olmasına katkı sağlamıştır.",
+                "Lionel Messi, aynı yıl Arjantin milli takımıyla Copa America'yı kazanmış ve turnuva boyunca toplam 9 gol atmıştır.",
+                "Neymar, Brezilya milli takımında 7 gol atarak takımını Copa America finaline taşımıştır.",
+                "Robert Lewandowski, Polonya milli takımında 12 gol atmış ve Avrupa elemelerinde öne çıkan bir performans sergilemiştir.",
+                "Harry Kane, İngiltere milli takımında 13 gol atmış ve takımını Avrupa Şampiyonası'nda finale taşımıştır."
+            ],
+            "question": "2021 yılında uluslararası maçlarda en fazla gol atan futbolcu kimdir?",
+            "answer": "Cristiano Ronaldo"
+        },
+        {
+            "context": [
+                "2024 yılında dünya genelinde toplam çay tüketimi 10 milyon ton olarak açıklanmıştır. Bu miktarın %50'si Asya kıtasında tüketilmiştir.",
+                "Afrika kıtasında toplam çay tüketimi 2 milyon ton olarak kaydedilmiştir. Bu miktar, bölgenin artan çay tüketim potansiyelini göstermektedir.",
+                "Avrupa'da toplam çay tüketimi 1.5 milyon ton olmuştur. Özellikle İngiltere ve Rusya gibi ülkeler çay tüketiminde öne çıkmıştır.",
+                "Amerika kıtasında ise toplam tüketim 1 milyon ton olarak kaydedilmiştir. Bu bölgede kahve tüketimi çaydan daha popülerdir.",
+                "Okyanusya bölgesinde ise toplam çay tüketimi 0.5 milyon ton olarak açıklanmıştır. Bu oran dünya genelinde en düşük tüketim miktarını temsil etmektedir."
+            ],
+            "question": "2024 yılında dünya genelinde çay tüketiminde en düşük seviyeye sahip bölge hangisidir?",
+            "answer": "Okyanusya"
+        },
+        {
+            "context": [
+                "2025 yılında dünya genelinde toplam buğday üretimi 850 milyon ton olarak açıklanmıştır. Bu miktar, artan tarım teknolojileri ve verimlilikle elde edilmiştir.",
+                "Asya kıtası, toplam buğday üretiminin 300 milyon tonunu gerçekleştirmiş ve lider konuma yükselmiştir.",
+                "Avrupa kıtasında toplam üretim 250 milyon ton olarak kaydedilmiştir. Fransa ve Almanya bu üretimin önemli bir kısmını sağlamıştır.",
+                "Kuzey ve Güney Amerika kıtaları toplamda 200 milyon ton üretim gerçekleştirmiştir. Bu bölgeler, küresel buğday ihracatında kritik rol oynamaktadır.",
+                "Afrika kıtasında toplam buğday üretimi 100 milyon ton olarak açıklanmıştır. Bu kıta, kendi tüketim ihtiyacını karşılamak için buğday ithalatına da bağımlı kalmaktadır."
+            ],
+            "question": "2025 yılında buğday üretiminde lider konuma sahip kıta hangisidir?",
+            "answer": "Asya"
+        },
+        {
+            "context": [
+                "Cristiano Ronaldo, 2022 Dünya Kupası elemelerinde 10 gol atarak Portekiz'in turnuvaya katılmasına katkı sağlamıştır.",
+                "Lionel Messi, 2022 Dünya Kupası elemelerinde Arjantin milli takımıyla 8 gol atmış ve Copa America'da önemli bir performans sergilemiştir.",
+                "Kylian Mbappé, 2022 Dünya Kupası elemelerinde Fransa milli takımında 12 gol atarak takımını Dünya Kupası'na taşımıştır.",
+                "Harry Kane, 2022 Dünya Kupası elemelerinde İngiltere adına 9 gol atmış ve Avrupa elemelerinde öne çıkmıştır.",
+                "Robert Lewandowski, 2022 Dünya Kupası elemelerinde Polonya adına 11 gol atarak milli takımının en skorer oyuncusu olmuştur."
+            ],
+            "question": "2022 Dünya Kupası elemelerinde en fazla gol atan futbolcu kimdir?",
+            "answer": "Kylian Mbappé"
+        },
+        {
+            "context": [
+                "Cristiano Ronaldo, 2022 Dünya Kupası elemelerinde 10 gol atarak Portekiz'in turnuvaya katılmasına katkı sağlamıştır.",
+                "Lionel Messi, 2022 Dünya Kupası elemelerinde Arjantin milli takımıyla 8 gol atmış ve Copa America'da önemli bir performans sergilemiştir.",
+                "Kylian Mbappé, 2022 Dünya Kupası elemelerinde Fransa milli takımında 12 gol atarak takımını Dünya Kupası'na taşımıştır.",
+                "Harry Kane, 2022 Dünya Kupası elemelerinde İngiltere adına 9 gol atmış ve Avrupa elemelerinde öne çıkmıştır.",
+                "Robert Lewandowski, 2022 Dünya Kupası elemelerinde Polonya adına 11 gol atarak milli takımının en skorer oyuncusu olmuştur."
+            ],
+            "question": "2022 Dünya Kupası elemelerinde en fazla gol atan futbolcu hangi milli takımın oyuncusudur?",
+            "answer": "Fransa"
+        },
+        {
+            "context": [
+                "Cristiano Ronaldo, 2022 Dünya Kupası elemelerinde 10 gol atarak Portekiz'in turnuvaya katılmasına katkı sağlamıştır.",
+                "Lionel Messi, 2022 Dünya Kupası elemelerinde Arjantin milli takımıyla 8 gol atmış ve Copa America'da önemli bir performans sergilemiştir.",
+                "Kylian Mbappé, 2022 Dünya Kupası elemelerinde Fransa milli takımında 12 gol atarak takımını Dünya Kupası'na taşımıştır.",
+                "Harry Kane, 2022 Dünya Kupası elemelerinde İngiltere adına 9 gol atmış ve Avrupa elemelerinde öne çıkmıştır.",
+                "Robert Lewandowski, 2022 Dünya Kupası elemelerinde Polonya adına 11 gol atarak milli takımının en skorer oyuncusu olmuştur."
+            ],
+            "question": "2022 Dünya Kupası elemelerinde en fazla gol atan futbolcu kaç gol atmıştır?",
+            "answer": "12"
+        },
+        {
+            "context": [
+                "Cristiano Ronaldo, 2022 Dünya Kupası elemelerinde 10 gol atarak Portekiz'in turnuvaya katılmasına katkı sağlamıştır.",
+                "Lionel Messi, 2022 Dünya Kupası elemelerinde Arjantin milli takımıyla 8 gol atmış ve Copa America'da önemli bir performans sergilemiştir.",
+                "Kylian Mbappé, 2022 Dünya Kupası elemelerinde Fransa milli takımında 12 gol atarak takımını Dünya Kupası'na taşımıştır.",
+                "Harry Kane, 2022 Dünya Kupası elemelerinde İngiltere adına 9 gol atmış ve Avrupa elemelerinde öne çıkmıştır.",
+                "Robert Lewandowski, 2022 Dünya Kupası elemelerinde Polonya adına 11 gol atarak milli takımının en skorer oyuncusu olmuştur."
+            ],
+            "question": "2022 Dünya Kupası elemelerinde en az gol atan futbolcu kaç gol atmıştır?",
+            "answer": "8"
+        },
+        {
+            "context": [
+                "Cristiano Ronaldo, 2022 Dünya Kupası elemelerinde 10 gol atarak Portekiz'in turnuvaya katılmasına katkı sağlamıştır.",
+                "Lionel Messi, 2022 Dünya Kupası elemelerinde Arjantin milli takımıyla 8 gol atmış ve Copa America'da önemli bir performans sergilemiştir.",
+                "Kylian Mbappé, 2022 Dünya Kupası elemelerinde Fransa milli takımında 12 gol atarak takımını Dünya Kupası'na taşımıştır.",
+                "Harry Kane, 2022 Dünya Kupası elemelerinde İngiltere adına 9 gol atmış ve Avrupa elemelerinde öne çıkmıştır.",
+                "Robert Lewandowski, 2022 Dünya Kupası elemelerinde Polonya adına 11 gol atarak milli takımının en skorer oyuncusu olmuştur."
+            ],
+            "question": "2022 Dünya Kupası elemelerinde en az gol atan futbolcu hangi milli takımın oyuncusudur?",
+            "answer": "Arjantin"
+        },
+        {
+            "context": [
+                "2023 yılında dünya genelinde toplam plastik üretimi 400 milyon ton olarak açıklanmıştır. Bu miktar, artan sanayi ve tüketim ihtiyaçları ile sürekli artış göstermektedir.",
+                "Avrupa'da plastik üretimi 50 milyon ton olarak kaydedilmiştir. Bu bölge, geri dönüşüm oranlarıyla dikkat çekmektedir.",
+                "Asya'da toplam plastik üretimi 250 milyon tona ulaşmıştır ve dünya üretiminin en büyük kısmını oluşturmaktadır.",
+                "Amerika kıtası 70 milyon ton plastik üretimi gerçekleştirmiştir. Özellikle paketleme sektöründe büyük bir paya sahiptir.",
+                "Afrika ve Okyanusya bölgelerinde ise toplam üretim 30 milyon ton olarak açıklanmıştır. Bu bölgeler daha düşük tüketim ve üretim oranlarına sahiptir."
+            ],
+            "question": "2023 yılında toplam plastik üretimi kaç milyon tondur?",
+            "answer": "400"
+        },
+        {
+            "context": [
+                "2024 yılında dünya genelinde toplam yenilenebilir enerji kapasitesi 3.000 gigawatt olarak açıklanmıştır. Bu kapasitenin büyük kısmı güneş ve rüzgar enerjisinden sağlanmıştır.",
+                "Avrupa, toplam 900 gigawatt kapasite ile yenilenebilir enerji kullanımında öne çıkmıştır. Almanya ve İspanya bu konuda liderdir.",
+                "Asya kıtasında toplam kapasite 1.200 gigawatt olarak hesaplanmıştır. Çin, bu kapasitenin büyük bir kısmını sağlamaktadır.",
+                "Amerika kıtası toplamda 700 gigawatt kapasiteye sahiptir. ABD ve Brezilya bu kıtada yenilenebilir enerjinin lider ülkeleridir.",
+                "Afrika ve Okyanusya bölgeleri toplamda 200 gigawatt kapasiteyle yenilenebilir enerji kullanımında daha düşük seviyelerdedir."
+            ],
+            "question": "2024 yılında yenilenebilir enerji kapasitesi kaç gigawatt olarak açıklanmıştır?",
+            "answer": "3000"
+        },
+        {
+            "context": [
+                "Cristiano Ronaldo, 2022 Dünya Kupası elemelerinde 10 gol atarak Portekiz'in turnuvaya katılmasına katkı sağlamıştır.",
+                "Lionel Messi, 2022 Dünya Kupası elemelerinde Arjantin milli takımıyla 8 gol atmış ve Copa America'da önemli bir performans sergilemiştir.",
+                "Kylian Mbappé, 2022 Dünya Kupası elemelerinde Fransa milli takımında 12 gol atarak takımını Dünya Kupası'na taşımıştır.",
+                "Harry Kane, 2022 Dünya Kupası elemelerinde İngiltere adına 9 gol atmış ve Avrupa elemelerinde öne çıkmıştır.",
+                "Robert Lewandowski, 2022 Dünya Kupası elemelerinde Polonya adına 11 gol atarak milli takımının en skorer oyuncusu olmuştur."
+            ],
+            "question": "2022 Dünya Kupası elemelerinde Cristiano Ronaldo'nun attığı gol sayısı kaçtır?",
+            "answer": "10"
+        },
+        {
+            "context": [
+                "2023 yılında dünya genelinde toplam buğday ithalatı 180 milyon ton olarak kaydedilmiştir. Bu miktar, ülkelerin artan nüfus ve azalan tarım kaynaklarına bağlı olarak yükselmiştir.",
+                "Asya kıtası, toplamda 70 milyon ton buğday ithal ederek bu alanda lider konuma gelmiştir.",
+                "Afrika kıtası toplamda 50 milyon ton buğday ithal etmiştir. Bu oran, bölgenin düşük tarımsal üretim kapasitesini göstermektedir.",
+                "Avrupa, toplam 30 milyon ton buğday ithal ederek diğer kıtalara göre daha düşük bir seviyede kalmıştır.",
+                "Amerika kıtası ise toplamda 20 milyon ton buğday ithal etmiştir. Bu kıta genel olarak üretici bir bölge olarak bilinir."
+            ],
+            "question": "2023 yılında dünya genelinde toplam buğday ithalatı kaç milyon tondur?",
+            "answer": "180"
+        },
+        {
+            "context": [
+                "2025 yılında dünya genelinde toplam elektrik tüketimi 30.000 terawatt-saat olarak açıklanmıştır. Bu miktar, önceki yıllara göre %10'luk bir artışı temsil etmektedir.",
+                "Sanayi sektörü, toplam tüketimin 13.500 terawatt-saatlik kısmını oluşturarak en yüksek paya sahiptir.",
+                "Hane halkları toplamda 6.000 terawatt-saat elektrik tüketmiştir. Bu, ısıtma ve soğutma sistemlerinin yoğun kullanımına bağlanmaktadır.",
+                "Ulaşım sektörü 4.500 terawatt-saat elektrik tüketerek elektrikli araçların yaygınlaşmasının etkisini göstermektedir.",
+                "Yenilenebilir enerji kaynaklarından sağlanan elektrik toplam tüketimin 6.000 terawatt-saatlik kısmını karşılamıştır."
+            ],
+            "question": "2025 yılında toplam elektrik tüketimi kaç terawatt-saat olarak açıklanmıştır?",
+            "answer": "30000"
+        },
+        {
+            "context": [
+                "2024 yılında dünya genelinde toplam sera gazı salınımı 50 milyar ton olarak açıklanmıştır. Bu salınım, ülkelerin sanayileşme ve enerji tüketim oranlarıyla bağlantılıdır.",
+                "Enerji sektörü, toplam salınımın 20 milyar tonunu oluşturarak bu alanda en büyük paya sahiptir.",
+                "Sanayi sektörü toplamda 15 milyar ton sera gazı salınımına neden olmuştur. Bu, özellikle çimento ve çelik üretiminden kaynaklanmaktadır.",
+                "Ulaşım sektörü, 10 milyar ton sera gazı salınımı ile üçüncü sırada yer almaktadır.",
+                "Tarım sektörü toplam salınımın 5 milyar tonunu oluşturarak daha düşük bir paya sahiptir ancak metan gazı salınımında öne çıkmaktadır."
+            ],
+            "question": "2024 yılında toplam sera gazı salınımı kaç milyar ton olarak açıklanmıştır?",
+            "answer": "50"
+        },
+        {
+            "context": [
+                "2023 yılında dünya genelinde toplam kahve üretimi 12 milyon ton olarak kaydedilmiştir. Bu miktar, Brezilya ve Vietnam gibi ülkelerin büyük katkılarıyla sağlanmıştır.",
+                "Brezilya, toplamda 5 milyon ton kahve üreterek dünya lideri olmuştur.",
+                "Vietnam, toplamda 3 milyon ton kahve üretimi ile ikinci sırada yer almıştır.",
+                "Kolombiya, toplamda 2 milyon ton kahve üreterek üçüncü sırada yer almıştır.",
+                "Diğer ülkeler ise toplamda 2 milyon ton kahve üretmiştir. Bu ülkeler arasında Etiyopya ve Hindistan da bulunmaktadır."
+            ],
+            "question": "2023 yılında dünya genelinde toplam kahve üretimi kaç milyon tondur?",
+            "answer": "12"
+        },
+        {
+            "context": [
+                "2022 yılında dünya genelinde toplam orman kaybı 15 milyon hektar olarak açıklanmıştır. Bu oran, tarım ve sanayileşme faaliyetleriyle bağlantılıdır.",
+                "Amazon Ormanları, toplam 5 milyon hektar orman kaybıyla en çok etkilenen bölge olmuştur.",
+                "Güneydoğu Asya'da toplam 4 milyon hektar orman kaybı yaşanmıştır. Bu durum, palmiye yağı üretimi ile ilişkilendirilmektedir.",
+                "Afrika kıtasında toplam 3 milyon hektar orman kaybı kaydedilmiştir. Bu, bölgedeki geniş çaplı tarım projelerinden kaynaklanmaktadır.",
+                "Diğer bölgelerde ise toplam 3 milyon hektar orman kaybı yaşanmıştır. Bu bölgeler arasında Kuzey Amerika ve Avrupa da bulunmaktadır."
+            ],
+            "question": "2022 yılında toplam orman kaybı kaç milyon hektar olarak açıklanmıştır?",
+            "answer": "15"
+        },
+        {
+            "context": [
+                "2025 yılında dünya genelinde toplam yenilenebilir enerji üretimi 10.000 terawatt-saat olarak açıklanmıştır. Bu üretimin büyük bir kısmı rüzgar ve güneş enerjisinden sağlanmıştır.",
+                "Rüzgar enerjisi toplamda 4.000 terawatt-saat enerji üreterek yenilenebilir enerji kaynakları arasında lider olmuştur.",
+                "Güneş enerjisi, toplamda 3.500 terawatt-saat enerji üretmiştir ve ikinci sırada yer almaktadır.",
+                "Hidroelektrik enerji, toplamda 2.000 terawatt-saat enerji üreterek diğer kaynaklara kıyasla daha düşük bir seviyede kalmıştır.",
+                "Jeotermal enerji ve biyokütle enerji kaynakları ise toplamda 500 terawatt-saat enerji üretmiştir."
+            ],
+            "question": "2025 yılında toplam yenilenebilir enerji üretimi kaç terawatt-saat olarak açıklanmıştır?",
+            "answer": "10000"
+        },
+        {
+            "context": [
+                "Osmanlı Devleti'nin kurucusu Osman Gazi, 1299 yılında bağımsızlığını ilan ederek 27 yıl boyunca tahtta kalmıştır (1299-1326). Osman Gazi, Bizans'a karşı önemli seferler düzenlemiş ve özellikle Bursa çevresinde fetih hareketlerini sürdürmüştür. Toplamda 7 sefere çıkarak Osmanlı'nın temellerini güçlendirmiştir.",
+                "Osmanlı'nın ikinci padişahı olan Orhan Gazi, 1326 yılında tahta geçmiş ve 34 yıl boyunca tahtta kalmıştır (1326-1360). Orhan Gazi, Osmanlı'nın ilk düzenli ordusunu kurmuş, Bizans'a karşı İznik ve İzmit'i fethetmiştir. Balkanlar'a geçişin hazırlıklarını yapan Orhan Gazi, toplamda 10 sefere çıkmıştır.",
+                "Üçüncü padişah I. Murad (Hüdavendigar), 1360 yılında tahta çıkmış ve 27 yıl tahtta kalmıştır (1360-1389). Balkanlar'da Sırpsındığı ve I. Kosova zaferlerini kazanmış, Osmanlı'nın Avrupa'daki etkisini artırmıştır. I. Murad, 15 sefere çıkarak birçok toprak fethetmiş ve Osmanlı sınırlarını genişletmiştir.",
+                "Dördüncü padişah Yıldırım Bayezid, 1389 yılında tahta çıkmış ve 13 yıl tahtta kalmıştır (1389-1402). Anadolu'da Türk beyliklerini Osmanlı hâkimiyetine almış, Niğbolu Zaferi'ni kazanarak Avrupa'da Osmanlı'nın gücünü göstermiştir. Yıldırım Bayezid, toplamda 12 sefere çıkmıştır.",
+                "Beşinci padişah I. Mehmet (Çelebi Mehmet), Fetret Devri'ni sona erdirerek 1413 yılında Osmanlı tahtına oturmuş ve 8 yıl boyunca padişahlık yapmıştır (1413-1421). Anadolu'da birlik sağlama çabalarına ağırlık veren Çelebi Mehmet, 5 sefere çıkmıştır."
+            ],
+            "question": "En çok sefere çıkan padişah kimdir?",
+            "answer": "I. Murad (Hüdavendigar)"
+        },
+        {
+            "context": [
+                "Osmanlı Devleti'nin kurucusu Osman Gazi, 1299 yılında bağımsızlığını ilan ederek 27 yıl boyunca tahtta kalmıştır (1299-1326). Osman Gazi, Bizans'a karşı önemli seferler düzenlemiş ve özellikle Bursa çevresinde fetih hareketlerini sürdürmüştür. Toplamda 7 sefere çıkarak Osmanlı'nın temellerini güçlendirmiştir.",
+                "Osmanlı'nın ikinci padişahı olan Orhan Gazi, 1326 yılında tahta geçmiş ve 34 yıl boyunca tahtta kalmıştır (1326-1360). Orhan Gazi, Osmanlı'nın ilk düzenli ordusunu kurmuş, Bizans'a karşı İznik ve İzmit'i fethetmiştir. Balkanlar'a geçişin hazırlıklarını yapan Orhan Gazi, toplamda 10 sefere çıkmıştır.",
+                "Üçüncü padişah I. Murad (Hüdavendigar), 1360 yılında tahta çıkmış ve 27 yıl tahtta kalmıştır (1360-1389). Balkanlar'da Sırpsındığı ve I. Kosova zaferlerini kazanmış, Osmanlı'nın Avrupa'daki etkisini artırmıştır. I. Murad, 15 sefere çıkarak birçok toprak fethetmiş ve Osmanlı sınırlarını genişletmiştir.",
+                "Dördüncü padişah Yıldırım Bayezid, 1389 yılında tahta çıkmış ve 13 yıl tahtta kalmıştır (1389-1402). Anadolu'da Türk beyliklerini Osmanlı hâkimiyetine almış, Niğbolu Zaferi'ni kazanarak Avrupa'da Osmanlı'nın gücünü göstermiştir. Yıldırım Bayezid, toplamda 12 sefere çıkmıştır.",
+                "Beşinci padişah I. Mehmet (Çelebi Mehmet), Fetret Devri'ni sona erdirerek 1413 yılında Osmanlı tahtına oturmuş ve 8 yıl boyunca padişahlık yapmıştır (1413-1421). Anadolu'da birlik sağlama çabalarına ağırlık veren Çelebi Mehmet, 5 sefere çıkmıştır."
+            ],
+            "question": "En çok sefere çıkan padişah kaç yıl tahtta kalmıştır?",
+            "answer": "27"
+        },
+        {
+            "context": [
+                "Osmanlı Devleti'nin kurucusu Osman Gazi, 1299 yılında bağımsızlığını ilan ederek 27 yıl boyunca tahtta kalmıştır (1299-1326). Osman Gazi, Bizans'a karşı önemli seferler düzenlemiş ve özellikle Bursa çevresinde fetih hareketlerini sürdürmüştür. Toplamda 7 sefere çıkarak Osmanlı'nın temellerini güçlendirmiştir.",
+                "Osmanlı'nın ikinci padişahı olan Orhan Gazi, 1326 yılında tahta geçmiş ve 34 yıl boyunca tahtta kalmıştır (1326-1360). Orhan Gazi, Osmanlı'nın ilk düzenli ordusunu kurmuş, Bizans'a karşı İznik ve İzmit'i fethetmiştir. Balkanlar'a geçişin hazırlıklarını yapan Orhan Gazi, toplamda 10 sefere çıkmıştır.",
+                "Üçüncü padişah I. Murad (Hüdavendigar), 1360 yılında tahta çıkmış ve 27 yıl tahtta kalmıştır (1360-1389). Balkanlar'da Sırpsındığı ve I. Kosova zaferlerini kazanmış, Osmanlı'nın Avrupa'daki etkisini artırmıştır. I. Murad, 15 sefere çıkarak birçok toprak fethetmiş ve Osmanlı sınırlarını genişletmiştir.",
+                "Dördüncü padişah Yıldırım Bayezid, 1389 yılında tahta çıkmış ve 13 yıl tahtta kalmıştır (1389-1402). Anadolu'da Türk beyliklerini Osmanlı hâkimiyetine almış, Niğbolu Zaferi'ni kazanarak Avrupa'da Osmanlı'nın gücünü göstermiştir. Yıldırım Bayezid, toplamda 12 sefere çıkmıştır.",
+                "Beşinci padişah I. Mehmet (Çelebi Mehmet), Fetret Devri'ni sona erdirerek 1413 yılında Osmanlı tahtına oturmuş ve 8 yıl boyunca padişahlık yapmıştır (1413-1421). Anadolu'da birlik sağlama çabalarına ağırlık veren Çelebi Mehmet, 5 sefere çıkmıştır."
+            ],
+            "question": "En çok tahtta kalan padişah kimdir?",
+            "answer": "Orhan Gazi"
+        },
+        {
+            "context": [
+                "Osmanlı Devleti'nin kurucusu Osman Gazi, 1299 yılında bağımsızlığını ilan ederek 27 yıl boyunca tahtta kalmıştır (1299-1326). Osman Gazi, Bizans'a karşı önemli seferler düzenlemiş ve özellikle Bursa çevresinde fetih hareketlerini sürdürmüştür. Toplamda 7 sefere çıkarak Osmanlı'nın temellerini güçlendirmiştir.",
+                "Osmanlı'nın ikinci padişahı olan Orhan Gazi, 1326 yılında tahta geçmiş ve 34 yıl boyunca tahtta kalmıştır (1326-1360). Orhan Gazi, Osmanlı'nın ilk düzenli ordusunu kurmuş, Bizans'a karşı İznik ve İzmit'i fethetmiştir. Balkanlar'a geçişin hazırlıklarını yapan Orhan Gazi, toplamda 10 sefere çıkmıştır.",
+                "Üçüncü padişah I. Murad (Hüdavendigar), 1360 yılında tahta çıkmış ve 27 yıl tahtta kalmıştır (1360-1389). Balkanlar'da Sırpsındığı ve I. Kosova zaferlerini kazanmış, Osmanlı'nın Avrupa'daki etkisini artırmıştır. I. Murad, 15 sefere çıkarak birçok toprak fethetmiş ve Osmanlı sınırlarını genişletmiştir.",
+                "Dördüncü padişah Yıldırım Bayezid, 1389 yılında tahta çıkmış ve 13 yıl tahtta kalmıştır (1389-1402). Anadolu'da Türk beyliklerini Osmanlı hâkimiyetine almış, Niğbolu Zaferi'ni kazanarak Avrupa'da Osmanlı'nın gücünü göstermiştir. Yıldırım Bayezid, toplamda 12 sefere çıkmıştır.",
+                "Beşinci padişah I. Mehmet (Çelebi Mehmet), Fetret Devri'ni sona erdirerek 1413 yılında Osmanlı tahtına oturmuş ve 8 yıl boyunca padişahlık yapmıştır (1413-1421). Anadolu'da birlik sağlama çabalarına ağırlık veren Çelebi Mehmet, 5 sefere çıkmıştır."
+            ],
+            "question": "En çok tahtta kalan padişah kaç sefere çıkmıştır?",
+            "answer": "10"
+        },
+        {
+            "context": [
+                "Apollo 11, 1969 yılında Ay'a başarılı bir iniş yaparak insanlık tarihinin en önemli başarılarından birine imza atmıştır.",
+                "Görev sırasında Neil Armstrong, Ay'a ayak basan ilk insan olmuştur. Armstrong'un yanında Buzz Aldrin de Ay yüzeyine inmiştir.",
+                "Michael Collins, Ay yörüngesinde kalan komuta modülünü yönetmiştir. Bu ekip NASA'nın ilk Ay görevi için seçilmiştir.",
+                "Görev sırasında toplam 21 saat 36 dakika boyunca Ay yüzeyinde kalınmıştır. Ay yüzeyinden 21.5 kilogramlık kaya örneği toplanmıştır.",
+                "Apollo 11, Ay yüzeyine inişiyle hem teknolojik hem de bilimsel açıdan büyük bir ilerleme sağlamıştır."
+            ],
+            "question": "Apollo 11 görevi sırasında Ay yüzeyine kaç kilogram kaya örneği getirilmiştir?",
+            "answer": "21.5 kilogram"
+        },
+        {
+            "context": [
+                "Hubble Uzay Teleskobu, 1990 yılında uzaya fırlatılmıştır ve modern astronominin temel araçlarından biri haline gelmiştir.",
+                "Teleskop, evrenin genişleme hızını ölçmek için kritik gözlemler yapmıştır ve uzak galaksilerin görüntülerini dünyaya iletmiştir.",
+                "Hubble, evrenin yaşı ve büyük patlama teorisi üzerine önemli bilgiler sunmuştur. Gözlemleri, evrenin yaklaşık 13.8 milyar yıl yaşında olduğunu ortaya koymuştur.",
+                "Bu teleskop, Jüpiter'in dev fırtınalarını, Mars yüzeyindeki toz fırtınalarını ve Satürn'ün halkalarını gözlemlemiştir.",
+                "Bugüne kadar Hubble, 1.5 milyondan fazla gözlem yapmış ve 17.000'den fazla bilimsel makalenin temelini oluşturmuştur."
+            ],
+            "question": "Hubble Uzay Teleskobu'nun tahmini evren yaşı hakkında sağladığı bilgi nedir?",
+            "answer": "13.8 milyar yıl"
+        },
+        {
+            "context": [
+                "Mars'ta yaşam arayışları, NASA'nın Perseverance aracıyla hız kazanmıştır. Araç, 2021 yılında Mars yüzeyine başarılı bir şekilde iniş yapmıştır.",
+                "Görev sırasında Jezero Krateri, geçmişte bir göl yatağı olduğu düşünüldüğü için incelenmiştir.",
+                "Perseverance, Mars yüzeyinde organik bileşiklerin varlığına dair izler aramış ve toprak örnekleri toplamıştır.",
+                "Araç ayrıca Ingenuity adlı küçük bir helikopteri taşıyarak ilk kez bir gezegen yüzeyinde uçuş gerçekleştirilmesini sağlamıştır.",
+                "Görev, gelecekteki Mars keşifleri için önemli veriler toplamayı hedeflemiştir."
+            ],
+            "question": "Perseverance aracı, hangi yıl Mars yüzeyine iniş yapmıştır?",
+            "answer": "2021"
+        },
+        {
+            "context": [
+                "James Webb Uzay Teleskobu, 2021 yılında uzaya fırlatılmış ve 2022'de faaliyete geçmiştir.",
+                "Teleskop, büyük patlamadan hemen sonra oluşan ilk galaksileri gözlemlemek üzere tasarlanmıştır.",
+                "Kızılötesi ışık dalgalarını inceleyen Webb, evrenin erken dönemine dair yeni bilgiler sağlamıştır.",
+                "Teleskop, yıldızların ve gezegenlerin oluşumunu gözlemleyerek güneş sistemi dışındaki yaşam olasılıklarını incelemiştir.",
+                "James Webb, Hubble'dan 100 kat daha güçlü bir optik sisteme sahiptir ve gelişmiş teknolojilerle donatılmıştır."
+            ],
+            "question": "James Webb Uzay Teleskobu hangi yıl fırlatılmıştır?",
+            "answer": "2021"
+        },
+        {
+            "context": [
+                "Einstein'ın genel görelilik teorisi, 1915 yılında ortaya atılmış ve modern fiziğin temel taşlarından biri olmuştur.",
+                "Bu teori, yerçekiminin uzay-zamanın eğriliği ile açıklanmasını sağlamıştır.",
+                "Einstein'ın çalışmaları, kara deliklerin varlığını ve evrenin genişlediğini öngörmüştür.",
+                "Teori, 1919 yılında Arthur Eddington'ın güneş tutulması gözlemiyle doğrulanmıştır.",
+                "Genel görelilik, GPS gibi modern teknolojilerin temel prensiplerini oluşturur."
+            ],
+            "question": "Einstein'ın genel görelilik teorisi hangi yıl ortaya atılmıştır?",
+            "answer": "1915"
+        },
+        {
+            "context": [
+                "Galatasaray'ın 2020/2021 sezonunda transfer geliri 18.3 milyon euro olarak açıklanmıştır. Bu gelir, Marcelo Saracchi ve Florin Andone gibi oyuncuların satışlarından elde edilmiştir.",
+                "2021/2022 sezonunda Galatasaray'ın transfer geliri 12.5 milyon euro olarak kaydedilmiştir. Bu dönemde Henry Onyekuru'nun kulüpten ayrılması gelirlerde önemli bir katkı sağlamıştır.",
+                "2022/2023 sezonunda transfer geliri 25.8 milyon euro'ya ulaşmıştır. Bu sezon, Mostafa Mohamed'in satışı ve Avrupa'da gösterilen performans gelirleri artırmıştır.",
+                "2023/2024 sezonunda Galatasaray'ın transfer geliri 35.2 milyon euro olmuştur. Özellikle genç yeteneklerin yurtdışına transferi bu dönemin önemli gelir kaynakları arasında yer almıştır.",
+                "2024/2025 sezonunda transfer geliri 16.7 milyon euro olarak kaydedilmiştir. Tecrübeli oyuncuların ayrılması gelirleri etkilemiş, kulüp altyapıya yatırım yapmaya yönelmiştir."
+            ],
+            "question": "Galatasaray'ın transferden en çok gelir elde ettiği sezon hangisidir?",
+            "answer": "2023/2024"
+        },
+        {
+            "context": [
+                "Galatasaray'ın 2020/2021 sezonunda transfer geliri 18.3 milyon euro olarak açıklanmıştır. Bu gelir, Marcelo Saracchi ve Florin Andone gibi oyuncuların satışlarından elde edilmiştir.",
+                "2021/2022 sezonunda Galatasaray'ın transfer geliri 12.5 milyon euro olarak kaydedilmiştir. Bu dönemde Henry Onyekuru'nun kulüpten ayrılması gelirlerde önemli bir katkı sağlamıştır.",
+                "2022/2023 sezonunda transfer geliri 25.8 milyon euro'ya ulaşmıştır. Bu sezon, Mostafa Mohamed'in satışı ve Avrupa'da gösterilen performans gelirleri artırmıştır.",
+                "2023/2024 sezonunda Galatasaray'ın transfer geliri 35.2 milyon euro olmuştur. Özellikle genç yeteneklerin yurtdışına transferi bu dönemin önemli gelir kaynakları arasında yer almıştır.",
+                "2024/2025 sezonunda transfer geliri 16.7 milyon euro olarak kaydedilmiştir. Tecrübeli oyuncuların ayrılması gelirleri etkilemiş, kulüp altyapıya yatırım yapmaya yönelmiştir."
+            ],
+            "question": "Galatasaray'ın transferden en az gelir elde ettiği sezon hangisidir?",
+            "answer": "2021/2022"
+        },
+        {
+            "context": [
+                "Beşiktaş'ın 2020/2021 sezonunda transfer geliri 10.4 milyon euro olarak kaydedilmiştir. Bu dönemde Domagoj Vida ve Adem Ljajic'in transferleri gelirlerin büyük kısmını oluşturmuştur.",
+                "2021/2022 sezonunda Beşiktaş'ın transfer geliri 8.7 milyon euro olmuştur. Dorukhan Toköz'ün ayrılığı bu dönemin önemli bir satışıdır.",
+                "2022/2023 sezonunda Beşiktaş'ın transfer geliri 14.9 milyon euro'ya yükselmiştir. Bu gelir, Avrupa kupalarındaki başarıların yanı sıra altyapıdan gelen oyuncuların satışlarıyla artmıştır.",
+                "2023/2024 sezonunda transfer geliri 22.3 milyon euro olarak gerçekleşmiştir. Özellikle Valentin Rosier ve Rachid Ghezzal'ın satışı bu dönemin dikkat çeken transferlerindendir.",
+                "2024/2025 sezonunda transfer geliri 9.8 milyon euro olarak kaydedilmiştir. Bu dönemde Beşiktaş daha çok genç oyunculara yatırım yapmıştır."
+            ],
+            "question": "Beşiktaş'ın transferden en çok gelir elde ettiği sezon hangisidir?",
+            "answer": "2023/2024"
+        },
+        {
+            "context": [
+                "Beşiktaş'ın 2020/2021 sezonunda transfer geliri 10.4 milyon euro olarak kaydedilmiştir. Bu dönemde Domagoj Vida ve Adem Ljajic'in transferleri gelirlerin büyük kısmını oluşturmuştur.",
+                "2021/2022 sezonunda Beşiktaş'ın transfer geliri 8.7 milyon euro olmuştur. Dorukhan Toköz'ün ayrılığı bu dönemin önemli bir satışıdır.",
+                "2022/2023 sezonunda Beşiktaş'ın transfer geliri 14.9 milyon euro'ya yükselmiştir. Bu gelir, Avrupa kupalarındaki başarıların yanı sıra altyapıdan gelen oyuncuların satışlarıyla artmıştır.",
+                "2023/2024 sezonunda transfer geliri 22.3 milyon euro olarak gerçekleşmiştir. Özellikle Valentin Rosier ve Rachid Ghezzal'ın satışı bu dönemin dikkat çeken transferlerindendir.",
+                "2024/2025 sezonunda transfer geliri 9.8 milyon euro olarak kaydedilmiştir. Bu dönemde Beşiktaş daha çok genç oyunculara yatırım yapmıştır."
+            ],
+            "question": "Beşiktaş'ın transferden en az gelir elde ettiği sezon hangisidir?",
+            "answer": "2021/2022"
+        },
+        {
+            "context": [
+                "Şener Şen, 45 filmde rol almıştır. Özellikle “Hababam Sınıfı” serisi ve “Eşkıya” gibi kült filmlerle Türk sinemasında unutulmaz bir yer edinmiştir.",
+                "Kemal Sunal, 82 filmde rol almıştır. Türk sinemasının komedi klasiği kabul edilen “Kibar Feyzo”, “Hababam Sınıfı” ve “Kapıcılar Kralı” gibi filmlerle tanınır.",
+                "Kadir İnanır, 182 filmde rol almıştır. “Selvi Boylum Al Yazmalım” ve “Bir Yudum Sevgi” gibi filmlerle Türk sinemasının romantik ve dramatik filmlerine damga vurmuştur.",
+                "Cüneyt Arkın, 330 filmde rol almıştır. Özellikle aksiyon ve tarihi filmleriyle tanınan Arkın, “Dünyayı Kurtaran Adam” ve “Malkoçoğlu” gibi yapımlarla bilinir.",
+                "Tarık Akan, 111 filmde rol almıştır. “Hababam Sınıfı” serisi, “Yol” ve “Maden” gibi filmlerle hem komedi hem de dram türlerinde önemli işler yapmıştır.                " 
+            ],
+            "question": "En çok filmde rol alan aktör kimdir?",
+            "answer": "Cüneyt Arkın"
+        },
+        {
+            "context": [
+                "Şener Şen, 45 filmde rol almıştır. Özellikle “Hababam Sınıfı” serisi ve “Eşkıya” gibi kült filmlerle Türk sinemasında unutulmaz bir yer edinmiştir.",
+                "Kemal Sunal, 82 filmde rol almıştır. Türk sinemasının komedi klasiği kabul edilen “Kibar Feyzo”, “Hababam Sınıfı” ve “Kapıcılar Kralı” gibi filmlerle tanınır.",
+                "Kadir İnanır, 182 filmde rol almıştır. “Selvi Boylum Al Yazmalım” ve “Bir Yudum Sevgi” gibi filmlerle Türk sinemasının romantik ve dramatik filmlerine damga vurmuştur.",
+                "Cüneyt Arkın, 330 filmde rol almıştır. Özellikle aksiyon ve tarihi filmleriyle tanınan Arkın, “Dünyayı Kurtaran Adam” ve “Malkoçoğlu” gibi yapımlarla bilinir.",
+                "Tarık Akan, 111 filmde rol almıştır. “Hababam Sınıfı” serisi, “Yol” ve “Maden” gibi filmlerle hem komedi hem de dram türlerinde önemli işler yapmıştır.                " 
+            ],
+            "question": "En az filmde rol alan aktör kimdir?",
+            "answer": "Şener Şen"
+        },
+        {
+            "context": [
+                "Şener Şen, 45 filmde rol almıştır. Özellikle “Hababam Sınıfı” serisi ve “Eşkıya” gibi kült filmlerle Türk sinemasında unutulmaz bir yer edinmiştir.",
+                "Kemal Sunal, 82 filmde rol almıştır. Türk sinemasının komedi klasiği kabul edilen “Kibar Feyzo”, “Hababam Sınıfı” ve “Kapıcılar Kralı” gibi filmlerle tanınır.",
+                "Kadir İnanır, 182 filmde rol almıştır. “Selvi Boylum Al Yazmalım” ve “Bir Yudum Sevgi” gibi filmlerle Türk sinemasının romantik ve dramatik filmlerine damga vurmuştur.",
+                "Cüneyt Arkın, 330 filmde rol almıştır. Özellikle aksiyon ve tarihi filmleriyle tanınan Arkın, “Dünyayı Kurtaran Adam” ve “Malkoçoğlu” gibi yapımlarla bilinir.",
+                "Tarık Akan, 111 filmde rol almıştır. “Hababam Sınıfı” serisi, “Yol” ve “Maden” gibi filmlerle hem komedi hem de dram türlerinde önemli işler yapmıştır.                " 
+            ],
+            "question": "En çok filmde rol alan aktör kaç filmde rol almıştır?",
+            "answer": "330"
+        },
+        {
+            "context": [
+                "Şener Şen, 45 filmde rol almıştır. Özellikle “Hababam Sınıfı” serisi ve “Eşkıya” gibi kült filmlerle Türk sinemasında unutulmaz bir yer edinmiştir.",
+                "Kemal Sunal, 82 filmde rol almıştır. Türk sinemasının komedi klasiği kabul edilen “Kibar Feyzo”, “Hababam Sınıfı” ve “Kapıcılar Kralı” gibi filmlerle tanınır.",
+                "Kadir İnanır, 182 filmde rol almıştır. “Selvi Boylum Al Yazmalım” ve “Bir Yudum Sevgi” gibi filmlerle Türk sinemasının romantik ve dramatik filmlerine damga vurmuştur.",
+                "Cüneyt Arkın, 330 filmde rol almıştır. Özellikle aksiyon ve tarihi filmleriyle tanınan Arkın, “Dünyayı Kurtaran Adam” ve “Malkoçoğlu” gibi yapımlarla bilinir.",
+                "Tarık Akan, 111 filmde rol almıştır. “Hababam Sınıfı” serisi, “Yol” ve “Maden” gibi filmlerle hem komedi hem de dram türlerinde önemli işler yapmıştır.                " 
+            ],
+            "question": "En az filmde rol alan aktör kaç filmde rol almıştır?",
+            "answer": "45"
+        },
+        {
+            "context": [
+                "Barış Manço, 14 stüdyo albümü çıkarmış ve 200'den fazla şarkı kaydetmiştir. 'Gülpembe', 'Dağlar Dağlar' ve 'Kara Sevda' gibi unutulmaz eserlere imza atmıştır.",
+                "Sezen Aksu, 24 stüdyo albümü çıkarmış ve 400'den fazla şarkıya hayat vermiştir. 'Tükeneceğiz', 'Hadi Bakalım' ve 'Küçüğüm' gibi hitlerle tanınır.",
+                "Cem Karaca, toplamda 10 albüm yayınlamış ve 150'den fazla şarkıyı seslendirmiştir. 'Resimdeki Gözyaşları' ve 'Bu Son Olsun' gibi eserlerle Türk rock müziğine damga vurmuştur.",
+                "Tarkan, 10 albüm çıkarmış ve dünya çapında tanınan 200'den fazla şarkıya sahiptir. 'Şımarık', 'Kuzu Kuzu' ve 'Dudu' gibi hitlerle uluslararası bir üne kavuşmuştur.",
+                "Zeki Müren, 35 albüm çıkarmış ve 600'den fazla şarkıyı seslendirmiştir. 'Manolyam', 'Elbet Bir Gün' ve 'Şimdi Uzaklardasın' gibi eserlerle tanınır."
+            ],
+            "question": "En fazla albüm çıkaran şarkıcı kimdir?",
+            "answer": "Zeki Müren"
+        },
+        {
+            "context": [
+                "Barış Manço, 14 stüdyo albümü çıkarmış ve 200'den fazla şarkı kaydetmiştir. 'Gülpembe', 'Dağlar Dağlar' ve 'Kara Sevda' gibi unutulmaz eserlere imza atmıştır.",
+                "Sezen Aksu, 24 stüdyo albümü çıkarmış ve 400'den fazla şarkıya hayat vermiştir. 'Tükeneceğiz', 'Hadi Bakalım' ve 'Küçüğüm' gibi hitlerle tanınır.",
+                "Cem Karaca, toplamda 10 albüm yayınlamış ve 150'den fazla şarkıyı seslendirmiştir. 'Resimdeki Gözyaşları' ve 'Bu Son Olsun' gibi eserlerle Türk rock müziğine damga vurmuştur.",
+                "Tarkan, 10 albüm çıkarmış ve dünya çapında tanınan 200'den fazla şarkıya sahiptir. 'Şımarık', 'Kuzu Kuzu' ve 'Dudu' gibi hitlerle uluslararası bir üne kavuşmuştur.",
+                "Zeki Müren, 35 albüm çıkarmış ve 600'den fazla şarkıyı seslendirmiştir. 'Manolyam', 'Elbet Bir Gün' ve 'Şimdi Uzaklardasın' gibi eserlerle tanınır."
+            ],
+            "question": "En az albüm çıkaran şarkıcı kimdir?",
+            "answer": "Tarkan"
+        },
+        {
+            "context": [
+                "Barış Manço, 14 stüdyo albümü çıkarmış ve 200'den fazla şarkı kaydetmiştir. 'Gülpembe', 'Dağlar Dağlar' ve 'Kara Sevda' gibi unutulmaz eserlere imza atmıştır.",
+                "Sezen Aksu, 24 stüdyo albümü çıkarmış ve 400'den fazla şarkıya hayat vermiştir. 'Tükeneceğiz', 'Hadi Bakalım' ve 'Küçüğüm' gibi hitlerle tanınır.",
+                "Cem Karaca, toplamda 10 albüm yayınlamış ve 150'den fazla şarkıyı seslendirmiştir. 'Resimdeki Gözyaşları' ve 'Bu Son Olsun' gibi eserlerle Türk rock müziğine damga vurmuştur.",
+                "Tarkan, 10 albüm çıkarmış ve dünya çapında tanınan 200'den fazla şarkıya sahiptir. 'Şımarık', 'Kuzu Kuzu' ve 'Dudu' gibi hitlerle uluslararası bir üne kavuşmuştur.",
+                "Zeki Müren, 35 albüm çıkarmış ve 600'den fazla şarkıyı seslendirmiştir. 'Manolyam', 'Elbet Bir Gün' ve 'Şimdi Uzaklardasın' gibi eserlerle tanınır."
+            ],
+            "question": "En fazla şarkıyı seslendiren şarkıcı kimdir?",
+            "answer": "Zeki Müren"
+        },
+        {
+            "context": [
+                "Barış Manço, 14 stüdyo albümü çıkarmış ve 200'den fazla şarkı kaydetmiştir. 'Gülpembe', 'Dağlar Dağlar' ve 'Kara Sevda' gibi unutulmaz eserlere imza atmıştır.",
+                "Sezen Aksu, 24 stüdyo albümü çıkarmış ve 400'den fazla şarkıya hayat vermiştir. 'Tükeneceğiz', 'Hadi Bakalım' ve 'Küçüğüm' gibi hitlerle tanınır.",
+                "Cem Karaca, toplamda 10 albüm yayınlamış ve 150'den fazla şarkıyı seslendirmiştir. 'Resimdeki Gözyaşları' ve 'Bu Son Olsun' gibi eserlerle Türk rock müziğine damga vurmuştur.",
+                "Tarkan, 10 albüm çıkarmış ve dünya çapında tanınan 200'den fazla şarkıya sahiptir. 'Şımarık', 'Kuzu Kuzu' ve 'Dudu' gibi hitlerle uluslararası bir üne kavuşmuştur.",
+                "Zeki Müren, 35 albüm çıkarmış ve 600'den fazla şarkıyı seslendirmiştir. 'Manolyam', 'Elbet Bir Gün' ve 'Şimdi Uzaklardasın' gibi eserlerle tanınır."
+            ],
+            "question": "En az şarkıyı seslendiren şarkıcı kimdir?",
+            "answer": "Cem Karaca"
+        },
+        {
+            "context": [
+                "Barış Manço, 14 stüdyo albümü çıkarmış ve 200'den fazla şarkı kaydetmiştir. 'Gülpembe', 'Dağlar Dağlar' ve 'Kara Sevda' gibi unutulmaz eserlere imza atmıştır.",
+                "Sezen Aksu, 24 stüdyo albümü çıkarmış ve 400'den fazla şarkıya hayat vermiştir. 'Tükeneceğiz', 'Hadi Bakalım' ve 'Küçüğüm' gibi hitlerle tanınır.",
+                "Cem Karaca, toplamda 10 albüm yayınlamış ve 150'den fazla şarkıyı seslendirmiştir. 'Resimdeki Gözyaşları' ve 'Bu Son Olsun' gibi eserlerle Türk rock müziğine damga vurmuştur.",
+                "Tarkan, 10 albüm çıkarmış ve dünya çapında tanınan 200'den fazla şarkıya sahiptir. 'Şımarık', 'Kuzu Kuzu' ve 'Dudu' gibi hitlerle uluslararası bir üne kavuşmuştur.",
+                "Zeki Müren, 35 albüm çıkarmış ve 600'den fazla şarkıyı seslendirmiştir. 'Manolyam', 'Elbet Bir Gün' ve 'Şimdi Uzaklardasın' gibi eserlerle tanınır."
+            ],
+            "question": "Tarkan toplam kaç albüm çıkarmıştır?",
+            "answer": "10"
+        }
+    ]
+}
